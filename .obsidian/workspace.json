@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "游戏框架.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -155,12 +155,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d1ef52c290a8a4d",
+  "active": "233c151f195abd53",
   "lastOpenFiles": [
-    "Images/游戏框架.drawio.png",
+    "Images/Gameplay.png",
     "游戏框架.md",
-    "Images",
     "README.md",
+    "Images",
     "LICENSE",
     "UE5GameNotes/LICENSE",
     "UE5GameNotes",
